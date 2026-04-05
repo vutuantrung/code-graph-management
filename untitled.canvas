@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "unique-id",
+      "x": 100,
+      "y": 100,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Your content here"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-id",
+      "fromNode": "node-1",
+      "fromSide": "bottom",
+      "toNode": "node-2",
+      "toSide": "top"
+    }
+  ]
+}
